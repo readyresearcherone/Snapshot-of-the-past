@@ -18,15 +18,15 @@ Various groups ranging from college and universities to non-profit organisations
  Graphs were done using data from the 446 groups/resources available on the 23 <sup>rd</sup> of October.
 
 
-![alt text](./media/a.png)
+![alt text](./images/a.png)
 
 
-![alt text](./media/b.png)
+![alt text](./images/b.png)
 
 
-![alt text](./media/c.png)
+![alt text](./images/c.png)
 
 
-![alt text](./media/d.png)
+![alt text](./images/d.png)
 
 [MIT](https://opensource.org/licenses/MIT)
